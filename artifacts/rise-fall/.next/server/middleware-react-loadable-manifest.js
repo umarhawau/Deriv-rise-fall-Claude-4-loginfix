@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"components/rise-fall-view.tsx -> ./rise-fall-chart\":{\"id\":\"components/rise-fall-view.tsx -> ./rise-fall-chart\",\"files\":[\"static/chunks/_app-pages-browser_components_rise-fall-chart_tsx.js\"]}}"
