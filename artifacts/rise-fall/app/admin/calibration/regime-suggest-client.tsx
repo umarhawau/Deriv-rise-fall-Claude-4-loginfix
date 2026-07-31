@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { detectRegimeAndSuggest } from "./regime-action";
 import type { RegimeActionResult, RegimeThresholds } from "./regime-action";
+import BacktestPanel from "@/components/admin/backtest-panel";
 
 type Status = "idle" | "loading" | "review" | "applying" | "applied" | "error";
 
@@ -291,6 +292,15 @@ export default function RegimeSuggestClient() {
             {THRESHOLD_ROWS.every(({ key }) => Math.abs(proposal.suggestedThresholds[key] - proposal.currentThresholds[key]) < 0.001) && (
               <p className="text-[11px] text-zinc-500 mt-2 italic">No threshold changes proposed — current settings are already appropriate for this regime.</p>
             )}
+          </div>
+
+          {/* Counterfactual Backtest */}
+          <div className="px-5 py-4 border-t border-zinc-800">
+            <BacktestPanel
+              key={JSON.stringify(proposal.suggestedThresholds)}
+              mode={{ kind: "er-gate", proposed: proposal.suggestedThresholds }}
+              defaultWindow={200}
+            />
           </div>
 
           {/* Thinking block */}

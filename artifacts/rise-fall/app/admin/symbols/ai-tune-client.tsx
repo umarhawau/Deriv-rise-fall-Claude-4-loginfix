@@ -5,6 +5,7 @@ import { runAiTune } from "./ai-tune-action";
 import type { SymbolTuneInput, AiTuneResponse, AiTuneProposal } from "./ai-tune-action";
 import { setDirectionEnabledAction } from "./actions";
 import { getSymbolDisplayName } from "@/lib/active-symbols-display-names";
+import BacktestPanel from "@/components/admin/backtest-panel";
 
 interface Props {
   symbols: SymbolTuneInput[];
@@ -347,6 +348,23 @@ export default function AiTuneClient({ symbols, breakevenPct, minTrades }: Props
                   </tbody>
                 </table>
               </div>
+
+              {/* Counterfactual Backtest — scoped to selected DISABLE proposals */}
+              {(() => {
+                const selectedDisables = result.proposals
+                  .filter(p => p.action === "DISABLE" && selected.has(keyOf(p)) && !applied.has(keyOf(p)))
+                  .map(p => ({ symbol: p.symbol, direction: p.direction as "CALL" | "PUT" }));
+                if (selectedDisables.length === 0) return null;
+                return (
+                  <div className="px-4 sm:px-5 py-4 border-t border-zinc-800">
+                    <BacktestPanel
+                      key={JSON.stringify(selectedDisables)}
+                      mode={{ kind: "symbol-disable", disables: selectedDisables }}
+                      defaultWindow={200}
+                    />
+                  </div>
+                );
+              })()}
 
               {/* Apply bar */}
               <div className="px-4 sm:px-5 py-4 border-t border-zinc-800 flex items-center justify-between gap-3">

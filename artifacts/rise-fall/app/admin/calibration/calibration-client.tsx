@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { suggestThresholds } from "./suggest-action";
 import type { BucketRow, SuggestResponse } from "./suggest-action";
+import BacktestPanel from "@/components/admin/backtest-panel";
 
 interface Props {
   overallBuckets: BucketRow[];
@@ -230,6 +231,15 @@ export default function CalibrationAISuggest({ overallBuckets, callBuckets, putB
                 })}
               </tbody>
             </table>
+          </div>
+
+          {/* Counterfactual Backtest */}
+          <div className="px-4 sm:px-5 py-4 border-t border-zinc-800">
+            <BacktestPanel
+              key={JSON.stringify(result.suggestions)}
+              mode={{ kind: "er-gate", proposed: result.suggestions }}
+              defaultWindow={200}
+            />
           </div>
 
           {/* Actions */}
