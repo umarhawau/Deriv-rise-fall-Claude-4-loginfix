@@ -1,4 +1,10 @@
 {
-  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
-  "/admin/quant/page": "app/admin/quant/page.js"
+  "/manifest.webmanifest/route": "app/manifest.webmanifest/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/symbol-config/route": "app/api/symbol-config/route.js",
+  "/api/market-profiles/route": "app/api/market-profiles/route.js",
+  "/api/settings/route": "app/api/settings/route.js",
+  "/page": "app/page.js",
+  "/admin/loss-patterns/page": "app/admin/loss-patterns/page.js",
+  "/admin/calibration/page": "app/admin/calibration/page.js"
 }

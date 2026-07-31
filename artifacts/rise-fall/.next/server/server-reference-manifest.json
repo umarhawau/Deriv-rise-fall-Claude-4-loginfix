@@ -5,10 +5,35 @@
         "app/admin/quant/page": {
           "moduleId": "(rsc)/../../node_modules/.pnpm/next@15.5.19_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fquant%2Factions.ts%22%2C%5B%7B%22id%22%3A%22009a349329944482d070b5a36ca78a31e769aebc43%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%2C%7B%22id%22%3A%2260eb88c88ca57953e2912f8bca2c4cb6ae2221a919%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%5D%5D%5D&__client_imported__=!",
           "async": false
+        },
+        "app/admin/symbols/page": {
+          "moduleId": "(rsc)/../../node_modules/.pnpm/next@15.5.19_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fquant%2Factions.ts%22%2C%5B%7B%22id%22%3A%22009a349329944482d070b5a36ca78a31e769aebc43%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%2C%7B%22id%22%3A%2260eb88c88ca57953e2912f8bca2c4cb6ae2221a919%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%5D%5D%2C%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fsymbols%2Factions.ts%22%2C%5B%7B%22id%22%3A%224047241d6df84bf27667be885ec3676ae9e7b1fa9d%22%2C%22exportedName%22%3A%22applyHighConfidenceDisablesAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%226047197545e7881b05377f020e1d488b3c36435e9c%22%2C%22exportedName%22%3A%22toggleSymbolAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%226058297b9e632d58fec2af3cda1ca7e3b4738c647e%22%2C%22exportedName%22%3A%22applyDirectionRecommendationAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%227054c4d880cea791f718b1637db08900e0c5af6406%22%2C%22exportedName%22%3A%22toggleDirectionAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%2270acece170c6fa8f760d08372ac68cd88b7ae847a7%22%2C%22exportedName%22%3A%22setDirectionEnabledAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/admin/expiry/page": {
+          "moduleId": "(action-browser)/../../node_modules/.pnpm/next@15.5.19_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fquant%2Factions.ts%22%2C%5B%7B%22id%22%3A%22009a349329944482d070b5a36ca78a31e769aebc43%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%2C%7B%22id%22%3A%2260eb88c88ca57953e2912f8bca2c4cb6ae2221a919%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/admin/signal/page": {
+          "moduleId": "(action-browser)/../../node_modules/.pnpm/next@15.5.19_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fquant%2Factions.ts%22%2C%5B%7B%22id%22%3A%22009a349329944482d070b5a36ca78a31e769aebc43%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%2C%7B%22id%22%3A%2260eb88c88ca57953e2912f8bca2c4cb6ae2221a919%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/admin/loss-patterns/page": {
+          "moduleId": "(rsc)/../../node_modules/.pnpm/next@15.5.19_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fquant%2Factions.ts%22%2C%5B%7B%22id%22%3A%22009a349329944482d070b5a36ca78a31e769aebc43%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%2C%7B%22id%22%3A%2260eb88c88ca57953e2912f8bca2c4cb6ae2221a919%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/admin/calibration/page": {
+          "moduleId": "(rsc)/../../node_modules/.pnpm/next@15.5.19_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fquant%2Factions.ts%22%2C%5B%7B%22id%22%3A%22009a349329944482d070b5a36ca78a31e769aebc43%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%2C%7B%22id%22%3A%2260eb88c88ca57953e2912f8bca2c4cb6ae2221a919%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
         }
       },
       "layer": {
-        "app/admin/quant/page": "rsc"
+        "app/admin/quant/page": "rsc",
+        "app/admin/symbols/page": "rsc",
+        "app/admin/expiry/page": "action-browser",
+        "app/admin/signal/page": "action-browser",
+        "app/admin/loss-patterns/page": "rsc",
+        "app/admin/calibration/page": "rsc"
       },
       "filename": "app/admin/quant/actions.ts",
       "exportedName": "logoutAction"
@@ -18,13 +43,155 @@
         "app/admin/quant/page": {
           "moduleId": "(rsc)/../../node_modules/.pnpm/next@15.5.19_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fquant%2Factions.ts%22%2C%5B%7B%22id%22%3A%22009a349329944482d070b5a36ca78a31e769aebc43%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%2C%7B%22id%22%3A%2260eb88c88ca57953e2912f8bca2c4cb6ae2221a919%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%5D%5D%5D&__client_imported__=!",
           "async": false
+        },
+        "app/admin/symbols/page": {
+          "moduleId": "(rsc)/../../node_modules/.pnpm/next@15.5.19_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fquant%2Factions.ts%22%2C%5B%7B%22id%22%3A%22009a349329944482d070b5a36ca78a31e769aebc43%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%2C%7B%22id%22%3A%2260eb88c88ca57953e2912f8bca2c4cb6ae2221a919%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%5D%5D%2C%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fsymbols%2Factions.ts%22%2C%5B%7B%22id%22%3A%224047241d6df84bf27667be885ec3676ae9e7b1fa9d%22%2C%22exportedName%22%3A%22applyHighConfidenceDisablesAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%226047197545e7881b05377f020e1d488b3c36435e9c%22%2C%22exportedName%22%3A%22toggleSymbolAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%226058297b9e632d58fec2af3cda1ca7e3b4738c647e%22%2C%22exportedName%22%3A%22applyDirectionRecommendationAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%227054c4d880cea791f718b1637db08900e0c5af6406%22%2C%22exportedName%22%3A%22toggleDirectionAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%2270acece170c6fa8f760d08372ac68cd88b7ae847a7%22%2C%22exportedName%22%3A%22setDirectionEnabledAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/admin/expiry/page": {
+          "moduleId": "(action-browser)/../../node_modules/.pnpm/next@15.5.19_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fquant%2Factions.ts%22%2C%5B%7B%22id%22%3A%22009a349329944482d070b5a36ca78a31e769aebc43%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%2C%7B%22id%22%3A%2260eb88c88ca57953e2912f8bca2c4cb6ae2221a919%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/admin/signal/page": {
+          "moduleId": "(action-browser)/../../node_modules/.pnpm/next@15.5.19_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fquant%2Factions.ts%22%2C%5B%7B%22id%22%3A%22009a349329944482d070b5a36ca78a31e769aebc43%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%2C%7B%22id%22%3A%2260eb88c88ca57953e2912f8bca2c4cb6ae2221a919%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/admin/loss-patterns/page": {
+          "moduleId": "(rsc)/../../node_modules/.pnpm/next@15.5.19_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fquant%2Factions.ts%22%2C%5B%7B%22id%22%3A%22009a349329944482d070b5a36ca78a31e769aebc43%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%2C%7B%22id%22%3A%2260eb88c88ca57953e2912f8bca2c4cb6ae2221a919%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/admin/calibration/page": {
+          "moduleId": "(rsc)/../../node_modules/.pnpm/next@15.5.19_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fquant%2Factions.ts%22%2C%5B%7B%22id%22%3A%22009a349329944482d070b5a36ca78a31e769aebc43%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%2C%7B%22id%22%3A%2260eb88c88ca57953e2912f8bca2c4cb6ae2221a919%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
         }
       },
       "layer": {
-        "app/admin/quant/page": "rsc"
+        "app/admin/quant/page": "rsc",
+        "app/admin/symbols/page": "rsc",
+        "app/admin/expiry/page": "action-browser",
+        "app/admin/signal/page": "action-browser",
+        "app/admin/loss-patterns/page": "rsc",
+        "app/admin/calibration/page": "rsc"
       },
       "filename": "app/admin/quant/actions.ts",
       "exportedName": "loginAction"
+    },
+    "4047241d6df84bf27667be885ec3676ae9e7b1fa9d": {
+      "workers": {
+        "app/admin/symbols/page": {
+          "moduleId": "(rsc)/../../node_modules/.pnpm/next@15.5.19_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fquant%2Factions.ts%22%2C%5B%7B%22id%22%3A%22009a349329944482d070b5a36ca78a31e769aebc43%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%2C%7B%22id%22%3A%2260eb88c88ca57953e2912f8bca2c4cb6ae2221a919%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%5D%5D%2C%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fsymbols%2Factions.ts%22%2C%5B%7B%22id%22%3A%224047241d6df84bf27667be885ec3676ae9e7b1fa9d%22%2C%22exportedName%22%3A%22applyHighConfidenceDisablesAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%226047197545e7881b05377f020e1d488b3c36435e9c%22%2C%22exportedName%22%3A%22toggleSymbolAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%226058297b9e632d58fec2af3cda1ca7e3b4738c647e%22%2C%22exportedName%22%3A%22applyDirectionRecommendationAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%227054c4d880cea791f718b1637db08900e0c5af6406%22%2C%22exportedName%22%3A%22toggleDirectionAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%2270acece170c6fa8f760d08372ac68cd88b7ae847a7%22%2C%22exportedName%22%3A%22setDirectionEnabledAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/symbols/page": "rsc"
+      },
+      "filename": "app/admin/symbols/actions.ts",
+      "exportedName": "applyHighConfidenceDisablesAction"
+    },
+    "6047197545e7881b05377f020e1d488b3c36435e9c": {
+      "workers": {
+        "app/admin/symbols/page": {
+          "moduleId": "(rsc)/../../node_modules/.pnpm/next@15.5.19_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fquant%2Factions.ts%22%2C%5B%7B%22id%22%3A%22009a349329944482d070b5a36ca78a31e769aebc43%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%2C%7B%22id%22%3A%2260eb88c88ca57953e2912f8bca2c4cb6ae2221a919%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%5D%5D%2C%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fsymbols%2Factions.ts%22%2C%5B%7B%22id%22%3A%224047241d6df84bf27667be885ec3676ae9e7b1fa9d%22%2C%22exportedName%22%3A%22applyHighConfidenceDisablesAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%226047197545e7881b05377f020e1d488b3c36435e9c%22%2C%22exportedName%22%3A%22toggleSymbolAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%226058297b9e632d58fec2af3cda1ca7e3b4738c647e%22%2C%22exportedName%22%3A%22applyDirectionRecommendationAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%227054c4d880cea791f718b1637db08900e0c5af6406%22%2C%22exportedName%22%3A%22toggleDirectionAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%2270acece170c6fa8f760d08372ac68cd88b7ae847a7%22%2C%22exportedName%22%3A%22setDirectionEnabledAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/symbols/page": "rsc"
+      },
+      "filename": "app/admin/symbols/actions.ts",
+      "exportedName": "toggleSymbolAction"
+    },
+    "6058297b9e632d58fec2af3cda1ca7e3b4738c647e": {
+      "workers": {
+        "app/admin/symbols/page": {
+          "moduleId": "(rsc)/../../node_modules/.pnpm/next@15.5.19_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fquant%2Factions.ts%22%2C%5B%7B%22id%22%3A%22009a349329944482d070b5a36ca78a31e769aebc43%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%2C%7B%22id%22%3A%2260eb88c88ca57953e2912f8bca2c4cb6ae2221a919%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%5D%5D%2C%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fsymbols%2Factions.ts%22%2C%5B%7B%22id%22%3A%224047241d6df84bf27667be885ec3676ae9e7b1fa9d%22%2C%22exportedName%22%3A%22applyHighConfidenceDisablesAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%226047197545e7881b05377f020e1d488b3c36435e9c%22%2C%22exportedName%22%3A%22toggleSymbolAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%226058297b9e632d58fec2af3cda1ca7e3b4738c647e%22%2C%22exportedName%22%3A%22applyDirectionRecommendationAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%227054c4d880cea791f718b1637db08900e0c5af6406%22%2C%22exportedName%22%3A%22toggleDirectionAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%2270acece170c6fa8f760d08372ac68cd88b7ae847a7%22%2C%22exportedName%22%3A%22setDirectionEnabledAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/symbols/page": "rsc"
+      },
+      "filename": "app/admin/symbols/actions.ts",
+      "exportedName": "applyDirectionRecommendationAction"
+    },
+    "7054c4d880cea791f718b1637db08900e0c5af6406": {
+      "workers": {
+        "app/admin/symbols/page": {
+          "moduleId": "(rsc)/../../node_modules/.pnpm/next@15.5.19_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fquant%2Factions.ts%22%2C%5B%7B%22id%22%3A%22009a349329944482d070b5a36ca78a31e769aebc43%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%2C%7B%22id%22%3A%2260eb88c88ca57953e2912f8bca2c4cb6ae2221a919%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%5D%5D%2C%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fsymbols%2Factions.ts%22%2C%5B%7B%22id%22%3A%224047241d6df84bf27667be885ec3676ae9e7b1fa9d%22%2C%22exportedName%22%3A%22applyHighConfidenceDisablesAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%226047197545e7881b05377f020e1d488b3c36435e9c%22%2C%22exportedName%22%3A%22toggleSymbolAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%226058297b9e632d58fec2af3cda1ca7e3b4738c647e%22%2C%22exportedName%22%3A%22applyDirectionRecommendationAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%227054c4d880cea791f718b1637db08900e0c5af6406%22%2C%22exportedName%22%3A%22toggleDirectionAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%2270acece170c6fa8f760d08372ac68cd88b7ae847a7%22%2C%22exportedName%22%3A%22setDirectionEnabledAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/symbols/page": "rsc"
+      },
+      "filename": "app/admin/symbols/actions.ts",
+      "exportedName": "toggleDirectionAction"
+    },
+    "70acece170c6fa8f760d08372ac68cd88b7ae847a7": {
+      "workers": {
+        "app/admin/symbols/page": {
+          "moduleId": "(rsc)/../../node_modules/.pnpm/next@15.5.19_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fquant%2Factions.ts%22%2C%5B%7B%22id%22%3A%22009a349329944482d070b5a36ca78a31e769aebc43%22%2C%22exportedName%22%3A%22logoutAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%2C%7B%22id%22%3A%2260eb88c88ca57953e2912f8bca2c4cb6ae2221a919%22%2C%22exportedName%22%3A%22loginAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fquant%2Factions.ts%22%7D%5D%5D%2C%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fsymbols%2Factions.ts%22%2C%5B%7B%22id%22%3A%224047241d6df84bf27667be885ec3676ae9e7b1fa9d%22%2C%22exportedName%22%3A%22applyHighConfidenceDisablesAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%226047197545e7881b05377f020e1d488b3c36435e9c%22%2C%22exportedName%22%3A%22toggleSymbolAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%226058297b9e632d58fec2af3cda1ca7e3b4738c647e%22%2C%22exportedName%22%3A%22applyDirectionRecommendationAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%227054c4d880cea791f718b1637db08900e0c5af6406%22%2C%22exportedName%22%3A%22toggleDirectionAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%2C%7B%22id%22%3A%2270acece170c6fa8f760d08372ac68cd88b7ae847a7%22%2C%22exportedName%22%3A%22setDirectionEnabledAction%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Factions.ts%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/symbols/page": "rsc"
+      },
+      "filename": "app/admin/symbols/actions.ts",
+      "exportedName": "setDirectionEnabledAction"
+    },
+    "40e80afd98c6b5e88df31d9c42620c683e7f765a78": {
+      "workers": {
+        "app/admin/symbols/page": {
+          "moduleId": "(action-browser)/../../node_modules/.pnpm/next@15.5.19_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fsymbols%2Fai-tune-action.ts%22%2C%5B%7B%22id%22%3A%2240e80afd98c6b5e88df31d9c42620c683e7f765a78%22%2C%22exportedName%22%3A%22runAiTune%22%2C%22filename%22%3A%22app%2Fadmin%2Fsymbols%2Fai-tune-action.ts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/symbols/page": "action-browser"
+      },
+      "filename": "app/admin/symbols/ai-tune-action.ts",
+      "exportedName": "runAiTune"
+    },
+    "40dd4a27726c9d0ea4dfafbc7389d09c6ab814f812": {
+      "workers": {
+        "app/admin/loss-patterns/page": {
+          "moduleId": "(action-browser)/../../node_modules/.pnpm/next@15.5.19_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Floss-patterns%2Fanalyze-action.ts%22%2C%5B%7B%22id%22%3A%2240dd4a27726c9d0ea4dfafbc7389d09c6ab814f812%22%2C%22exportedName%22%3A%22analyzeLossPatterns%22%2C%22filename%22%3A%22app%2Fadmin%2Floss-patterns%2Fanalyze-action.ts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/loss-patterns/page": "action-browser"
+      },
+      "filename": "app/admin/loss-patterns/analyze-action.ts",
+      "exportedName": "analyzeLossPatterns"
+    },
+    "406ea5afd569edf65b457d44324cc25ce1eb9bf9bc": {
+      "workers": {
+        "app/admin/calibration/page": {
+          "moduleId": "(action-browser)/../../node_modules/.pnpm/next@15.5.19_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fcalibration%2Fsuggest-action.ts%22%2C%5B%7B%22id%22%3A%22406ea5afd569edf65b457d44324cc25ce1eb9bf9bc%22%2C%22exportedName%22%3A%22suggestThresholds%22%2C%22filename%22%3A%22app%2Fadmin%2Fcalibration%2Fsuggest-action.ts%22%7D%5D%5D%2C%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fcalibration%2Fregime-action.ts%22%2C%5B%7B%22id%22%3A%22008884c16e000679c7c55863b0ecc0350bb3bfcf14%22%2C%22exportedName%22%3A%22detectRegimeAndSuggest%22%2C%22filename%22%3A%22app%2Fadmin%2Fcalibration%2Fregime-action.ts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/calibration/page": "action-browser"
+      },
+      "filename": "app/admin/calibration/suggest-action.ts",
+      "exportedName": "suggestThresholds"
+    },
+    "008884c16e000679c7c55863b0ecc0350bb3bfcf14": {
+      "workers": {
+        "app/admin/calibration/page": {
+          "moduleId": "(action-browser)/../../node_modules/.pnpm/next@15.5.19_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fcalibration%2Fsuggest-action.ts%22%2C%5B%7B%22id%22%3A%22406ea5afd569edf65b457d44324cc25ce1eb9bf9bc%22%2C%22exportedName%22%3A%22suggestThresholds%22%2C%22filename%22%3A%22app%2Fadmin%2Fcalibration%2Fsuggest-action.ts%22%7D%5D%5D%2C%5B%22%2Fhome%2Frunner%2Fworkspace%2Fartifacts%2Frise-fall%2Fapp%2Fadmin%2Fcalibration%2Fregime-action.ts%22%2C%5B%7B%22id%22%3A%22008884c16e000679c7c55863b0ecc0350bb3bfcf14%22%2C%22exportedName%22%3A%22detectRegimeAndSuggest%22%2C%22filename%22%3A%22app%2Fadmin%2Fcalibration%2Fregime-action.ts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/calibration/page": "action-browser"
+      },
+      "filename": "app/admin/calibration/regime-action.ts",
+      "exportedName": "detectRegimeAndSuggest"
     }
   },
   "edge": {},
