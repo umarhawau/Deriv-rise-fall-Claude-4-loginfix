@@ -1,0 +1,32 @@
+kind = "web"
+previewPath = "/"
+title = "PulseEdge Rise Fall"
+version = "1.0.0"
+id = "artifacts/rise-fall"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 23700
+
+[services.development]
+run = "pnpm --filter @workspace/rise-fall run dev"
+
+[services.production]
+
+[services.production.build]
+args = ["pnpm", "--filter", "@workspace/rise-fall", "run", "build"]
+
+[services.production.run]
+args = ["pnpm", "--filter", "@workspace/rise-fall", "run", "start"]
+
+[services.production.run.env]
+PORT = "23700"
+NODE_ENV = "production"
+
+[services.production.health.startup]
+path = "/"
+
+[services.env]
+PORT = "23700"
