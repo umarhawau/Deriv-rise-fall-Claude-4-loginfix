@@ -1,0 +1,1 @@
+- [Rise-Fall import](rise-fall-import.md) — Next.js full-stack app cloned from GitHub; api-server path narrowed to /api/healthz to avoid shadowing Next.js routes.

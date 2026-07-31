@@ -5,6 +5,9 @@ import { checkLockout, recordFailure, clearAttempts } from "@/lib/admin-lockout"
 export const { handlers, signIn, signOut, auth } = NextAuth({
   // Re-use the existing SESSION_SECRET so no new secret is required
   secret: process.env.SESSION_SECRET,
+  // Required when running behind a reverse proxy (e.g. Replit) — tells
+  // Auth.js to trust x-forwarded-host so CSRF token validation passes.
+  trustHost: true,
 
   providers: [
     Credentials({
